@@ -1,5 +1,6 @@
 # attack-maltego
 
+<<<<<<< HEAD
 ### Installation
 
 Thease instruction have been tested on Ubuntu 18.04.2.
@@ -14,3 +15,7 @@ Thease instruction have been tested on Ubuntu 18.04.2.
     3. Click on 'Import'
     4. Click on 'Import Configuration'.
     5. Load the attack-maltego.mtz file and follow the prompts.
+=======
+This is a Maltego Local Transforms for explore the MITRE ATT&CK dataset. 
+
+>>>>>>> origin/master
