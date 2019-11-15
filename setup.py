@@ -17,7 +17,7 @@ setup(
         '': ['*.gif', '*.png', '*.conf', '*.mtz', '*.machine']  # list of resources
     },
     install_requires=[
-        'canari>=3.3.10,<4'
+        'canari>=3.3.10,<4', 'pyattck'
     ],
     dependency_links=[
         # custom links for the install_requires
