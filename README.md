@@ -2,9 +2,12 @@
 
 This is a Maltego Local Transforms for explore the MITRE ATT&CK dataset. 
 
+<<<<<<< HEAD
 # ScreenShots
 ![screenshot1.png](docs/screenshot1.png)
 
+=======
+>>>>>>> origin/master
 ### Requirements
 
 - Python 3.5 or later (May be run Python 2.7)
